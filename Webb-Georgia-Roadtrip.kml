@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Webb Family Thanksgiving Road Trip (Chicago to Peachtree City)</name>
+  <description>All 33 starred stops for Jordan, Janie, and Winston (Nov 24 to Nov 27, 2026).</description>
+  <Style id="star-day1"><IconStyle><color>ff329adf</color><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="star-day2"><IconStyle><color>ff2b5ac8</color><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="star-day3a"><IconStyle><color>ff8a7244</color><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="star-day3b"><IconStyle><color>ff2c3b9b</color><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="star-day4"><IconStyle><color>ff476236</color><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Style id="star-rest"><IconStyle><color>ff3a4757</color><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/paddle/ylw-stars.png</href></Icon></IconStyle></Style>
+  <Folder><name>Day 1: Chicago to South Indy (Tue Nov 24)</name>
+    <Placemark>
+      <name>Start: 2550 W Logan Blvd, Chicago</name>
+      <description>Home Start: Roll out ~4:15 PM CT Tue Nov 24 after 2 to 4 PM Deljo furnace check.</description>
+      <styleUrl>#star-day1</styleUrl>
+      <Point><coordinates>-87.6915,41.9284,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Staybridge Suites Greenwood (I-65 Exit 99)</name>
+      <description>Hotel (&lt;80 lbs): Verified &lt;80 lbs dog-friendly ($75 fee), $131/nt Adv / $154 Flex, full kitchen &amp; free hot breakfast. | Website: https://www.ihg.com/staybridge/hotels/us/en/greenwood/indgw/hoteldetail</description>
+      <styleUrl>#star-day1</styleUrl>
+      <Point><coordinates>-86.0825,39.6152,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Quinta Inn &amp; Suites Indianapolis South</name>
+      <description>Hotel (&lt;=75 lbs): Verified &lt;=75 lbs ($25 pet fee), $96/nt ($85 Member), free breakfast &amp; parking. | Website: https://www.wyndhamhotels.com/laquinta/indianapolis-indiana/la-quinta-indianapolis-south/rooms-rates</description>
+      <styleUrl>#star-day1</styleUrl>
+      <Point><coordinates>-86.0804,39.6908,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Holiday Inn Express Indianapolis South</name>
+      <description>Hotel (No Weight Limit): Verified NO pet weight limit ($75 fee), $99/nt ($116 w/ tax), free breakfast &amp; pet walking area. | Website: https://www.ihg.com/holidayinnexpress/hotels/us/en/indianapolis/indsx/hoteldetail</description>
+      <styleUrl>#star-day1</styleUrl>
+      <Point><coordinates>-86.1497,39.6906,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Oaken Barrel Brewing Co. (Greenwood)</name>
+      <description>Easy Dinner: Cozy Indiana comfort food right near I-65 Exit 99 Greenwood. | Website: https://oakenbarrel.com</description>
+      <styleUrl>#star-day1</styleUrl>
+      <Point><coordinates>-86.0872,39.6138,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Revery (Old Town Greenwood)</name>
+      <description>Nice Dinner: Warm modern American dining in downtown Greenwood. | Website: https://reverygreenwood.com</description>
+      <styleUrl>#star-day1</styleUrl>
+      <Point><coordinates>-86.1088,39.6136,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Day 2: Historic Franklin, TN (Wed Nov 25)</name>
+    <Placemark>
+      <name>Historic Downtown Franklin Main Street</name>
+      <description>Walking &amp; Shops: Flat brick sidewalks, Better Cities for Pets green paw stickers, and water bowls outside boutiques! | Website: https://visitfranklin.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8689,35.9251,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Frothy Monkey (Downtown Franklin)</name>
+      <description>Coffee &amp; Patio: All-day cafe inside a historic church manse with spacious dog-friendly patio. | Website: https://frothymonkey.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8712,35.9228,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Merridee's Breadbasket</name>
+      <description>Bakery &amp; Cafe: Iconic Franklin scratch bakery for cinnamon rolls, soup, sandwiches &amp; outdoor seating. | Website: https://merridees.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.871,35.9256,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>McGavock's Coffee Bar (The Harpeth)</name>
+      <description>Coffee Patio: Streetside dog-friendly coffee &amp; pastry patio at the edge of Main Street. | Website: https://www.harpethhotel.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8684,35.9277,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Finnley's Good Findings</name>
+      <description>Dog-Friendly Boutique: Chic Main Street clothing &amp; accessory boutique welcoming leashed dogs inside. | Website: https://www.finnleysonline.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.87,35.9242,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hester &amp; Cook (Main St Franklin)</name>
+      <description>Dog-Friendly Boutique: Beautiful paper goods, table linens, and gifts (dog-friendly!). | Website: https://www.hesterandcook.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8692,35.925,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Anthropologie (Historic Franklin)</name>
+      <description>Dog-Friendly Boutique: Gorgeous historic Main Street storefront welcoming leashed pups. | Website: https://www.anthropologie.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8698,35.9249,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puckett's Grocery &amp; Restaurant</name>
+      <description>Dinner &amp; Patio: Legendary Southern comfort food, live music, and dog-friendly patio seating. | Website: https://puckettsrestaurant.com/franklin/</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8714,35.924,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Americana Taphouse</name>
+      <description>Dinner &amp; Creek Patio: Elevated tavern classics with a spacious shaded creekside patio for Winston. | Website: https://www.americanataphouse.com</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8681,35.9261,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>The Park at Harlinsdale Farm (K-9 Korral)</name>
+      <description>Dog Park: 5 min from Main St: huge fenced off-leash dog park for Winston zoomies!</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8548,35.9369,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Drury Plaza Hotel Nashville Franklin</name>
+      <description>Hotel (&lt;=80 lbs): Verified 80 lb limit ($65 fee), $149.99/nt, FREE hot breakfast + FREE 5:30 PM Kickback dinner &amp; drinks! | Website: https://www.druryhotels.com/locations/nashville-tn/drury-plaza-hotel-nashville-franklin</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8147,35.9467,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>La Quinta Inn &amp; Suites Nashville Franklin</name>
+      <description>Hotel (&lt;=75 lbs): Verified &lt;=75 lbs ($25 pet fee), $71/nt ($63 Member), 2.6 mi to Main St, free breakfast &amp; parking. | Website: https://www.wyndhamhotels.com/laquinta/franklin-tennessee/la-quinta-nashville-franklin/rooms-rates</description>
+      <styleUrl>#star-day2</styleUrl>
+      <Point><coordinates>-86.8195,35.927,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Day 3A: Chattanooga (Thu Nov 26 AM)</name>
+    <Placemark>
+      <name>Walnut Street Pedestrian Bridge</name>
+      <description>Scenic Walk: Reopened Oct 3, 2026! Iconic flat wooden-plank pedestrian bridge high over the Tennessee River.</description>
+      <styleUrl>#star-day3a</styleUrl>
+      <Point><coordinates>-85.3072,35.0596,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Bluff View Art District &amp; Sculpture Garden</name>
+      <description>Scenic Walk &amp; Art: Ivy-covered cobblestone lanes, outdoor River Gallery Sculpture Garden, and Rembrandts courtyard. | Website: https://www.bluffviewartdistrictchattanooga.com</description>
+      <styleUrl>#star-day3a</styleUrl>
+      <Point><coordinates>-85.3059,35.0558,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Coolidge Park (NorthShore)</name>
+      <description>Riverfront Park: Wide flat grassy riverfront park right across Walnut Street Bridge for Winston.</description>
+      <styleUrl>#star-day3a</styleUrl>
+      <Point><coordinates>-85.3087,35.0616,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Frazier Avenue Shops (Almanac Supply &amp; Plum Nelly)</name>
+      <description>NorthShore Shops: Cute NorthShore indie boutique strip (window-shop Thanksgiving Day &amp; bookmark for our weekend trip back!). | Website: https://almanacsupplyco.com</description>
+      <styleUrl>#star-day3a</styleUrl>
+      <Point><coordinates>-85.3081,35.0631,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Point Park Overlook (Lookout Mountain)</name>
+      <description>Zero-Walk View: Optional 10-min scenic drive up Lookout Mountain for sweeping valley views right from the car.</description>
+      <styleUrl>#star-day3a</styleUrl>
+      <Point><coordinates>-85.349,35.011,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Elsie's Daughter (Chattanooga Choo Choo)</name>
+      <description>Thanksgiving Backup: Backup Thanksgiving lunch: 3-course prix fixe ($95/adult), open 2:00 &amp; 2:15 PM ET. | Website: https://www.opentable.com</description>
+      <styleUrl>#star-day3a</styleUrl>
+      <Point><coordinates>-85.3075,35.0372,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Day 3B: Trilith Guesthouse &amp; Feast (Thu Nov 26 PM)</name>
+    <Placemark>
+      <name>Trilith Guesthouse &amp; Prologue Thanksgiving Feast</name>
+      <description>Thanksgiving Stay &amp; Feast: Boutique Marriott Tribute hotel (&lt;=75 lbs dog approved!). Prologue Thanksgiving Feast 11 AM to 6 PM ET ($70/adult, last seating 5 PM). | Website: https://www.opentable.com/booking/experiences-availability?rid=1340353&amp;restref=1340353&amp;experienceId=810853</description>
+      <styleUrl>#star-day3b</styleUrl>
+      <Point><coordinates>-84.5023,33.4737,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Harvest &amp; Grace (Town at Trilith)</name>
+      <description>Fri Morning Coffee: Specialty lattes &amp; scratch breakfast with spacious dog-friendly patio (water stations &amp; leash tie-downs!). | Website: https://harvestgracecafe.com</description>
+      <styleUrl>#star-day3b</styleUrl>
+      <Point><coordinates>-84.5037,33.4718,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodstone Bakery &amp; Cafe (Town at Trilith)</name>
+      <description>Fri Pastries: Fresh pastries and espresso steps from Trilith Guesthouse.</description>
+      <styleUrl>#star-day3b</styleUrl>
+      <Point><coordinates>-84.5029,33.4723,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Day 4: Welcome Home - Peachtree City (Fri Nov 27)</name>
+    <Placemark>
+      <name>Welcome Home: 306 Calgary Drive, Peachtree City</name>
+      <description>New Home!: Only 15 min from Trilith! Tall Georgia pines, fenced backyard pool, and 100+ miles of golf-cart paths.</description>
+      <styleUrl>#star-day4</styleUrl>
+      <Point><coordinates>-84.5485,33.3614,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Historic Main Street Senoia (15 min south)</name>
+      <description>Local Cute Town: Adorable nearby Georgia Main Street with indie boutiques, porches, and coffee shops. | Website: https://www.enjoysenoia.com</description>
+      <styleUrl>#star-day4</styleUrl>
+      <Point><coordinates>-84.5538,33.3023,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Serenbe Village (22 min NW)</name>
+      <description>Local Trails &amp; Cafes: Artsy farm-to-table village with wooded trails, weekend farmers markets, and cozy cafes. | Website: https://serenbe.com</description>
+      <styleUrl>#star-day4</styleUrl>
+      <Point><coordinates>-84.7495,33.5387,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+  <Folder><name>Dog-Friendly Highway Rest Stops</name>
+    <Placemark>
+      <name>Fair Oaks Farms (I-65 Exit 220)</name>
+      <description>Rest Stop: Great halfway stretch on Leg 1 with wide perimeter lawns for Winston (pets stay outside buildings). | Website: https://fairoaksfarms.com</description>
+      <styleUrl>#star-rest</styleUrl>
+      <Point><coordinates>-87.2836,41.0517,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Buc-ee's Smiths Grove, KY (I-65 Exit 38)</name>
+      <description>Rest Stop: Spotless restrooms, brisket &amp; snacks. Strict no-pets-inside policy: tag-team walk Winston on outer grass. | Website: https://buc-ees.com</description>
+      <styleUrl>#star-rest</styleUrl>
+      <Point><coordinates>-86.2134,37.0558,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Buc-ee's Calhoun, GA (I-75 Exit 310)</name>
+      <description>Rest Stop: Halfway between Chattanooga and Trilith. Spotless restrooms &amp; snacks (walk Winston on perimeter grass). | Website: https://buc-ees.com</description>
+      <styleUrl>#star-rest</styleUrl>
+      <Point><coordinates>-84.9182,34.4426,0</coordinates></Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

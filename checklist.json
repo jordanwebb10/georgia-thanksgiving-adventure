@@ -1,0 +1,95 @@
+{
+  "updated_at": "2026-11-21T18:10:00-06:00",
+  "updated_by": "Jordan & Assistant",
+  "categories": [
+    {
+      "id": "janie",
+      "title": "Janie's Recovery & Cozy Car Setup",
+      "accent": "terracotta",
+      "subtitle": "Everything within arm's reach in the front seat so you stay super comfortable.",
+      "items": [
+        { "id": "j1", "text": "Soft lumbar pillow + seat cushion for the passenger seat", "done": false },
+        { "id": "j2", "text": "Cozy cream throw blanket + warm fuzzy socks", "done": false },
+        { "id": "j3", "text": "All medications, dosage schedule, and water bottle within easy reach", "done": false },
+        { "id": "j4", "text": "Ice pack / warm compress pack + small insulated cooler bag", "done": false },
+        { "id": "j5", "text": "Easy slip-on walking shoes for Franklin Main St and Chattanooga Bridge", "done": false },
+        { "id": "j6", "text": "Two insulated travel mugs for coffee runs + favorite road-trip snacks", "done": false },
+        { "id": "j7", "text": "Sunglasses, lip balm, hand lotion, tissues, and hair clips/scrunchies", "done": false },
+        { "id": "j8", "text": "Downloaded podcasts, audiobooks, road-trip playlist, and long phone charger cable", "done": false }
+      ]
+    },
+    {
+      "id": "winston",
+      "title": "Winston's 70 lb Co-Pilot Pack",
+      "accent": "pine",
+      "subtitle": "Keep his essentials right at the top of the trunk for quick rest-stop hops.",
+      "items": [
+        { "id": "w1", "text": "Festive red/green plaid bandana + grey harness + backup collar with ID tag", "done": false },
+        { "id": "w2", "text": "Sturdy daily leash + extra poop bag rolls clipped right to the leash", "done": false },
+        { "id": "w3", "text": "Colorful spiky bouncy ball + 1 or 2 favorite chew toys", "done": false },
+        { "id": "w4", "text": "Collapsible travel water bowl + dedicated gallon jug of water", "done": false },
+        { "id": "w5", "text": "5 days of kibble (plus scoop) and extra high-value treats / long-lasting chew for Trilith Thanksgiving dinner", "done": false },
+        { "id": "w6", "text": "Favorite dog bed/blanket so every hotel room smells instantly like home", "done": false },
+        { "id": "w7", "text": "Two old bath towels + paw wipes for dewy grass or rainy rest stops", "done": false },
+        { "id": "w8", "text": "Printed and phone copy of Winston's vaccination/vet records + any dog meds", "done": false }
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Clothes & Smart 3-Night Overnight Bags",
+      "accent": "amber",
+      "subtitle": "Pack one quick-grab tote for Indy + Franklin so Jordan only hauls one bag into the first two hotels!",
+      "items": [
+        { "id": "c1", "text": "Shared Quick-Grab Overnight Tote for Night 1 (Indy) & Night 2 (Franklin)", "done": false },
+        { "id": "c2", "text": "Cozy, relaxed Thanksgiving dinner outfits for Prologue at Trilith Guesthouse", "done": false },
+        { "id": "c3", "text": "Warm layers: sweaters, casual jackets, and light rain jackets / compact umbrella", "done": false },
+        { "id": "c4", "text": "Comfortable loungewear, pajamas, and 4 days of underwear/socks for both of us", "done": false },
+        { "id": "c5", "text": "Move-in day clothes & sneakers for Friday Nov 27 at 306 Calgary Drive", "done": false },
+        { "id": "c6", "text": "Toiletries bag: toothbrushes, skincare, hairbrush, deodorant, glasses/contacts & solution", "done": false },
+        { "id": "c7", "text": "Laundry bag for worn road-trip clothes + small stain-remover pen", "done": false }
+      ]
+    },
+    {
+      "id": "docs",
+      "title": "Important Documents & Valuables (Always In Car!)",
+      "accent": "bridge",
+      "subtitle": "Never pack these on the moving truck; keep in one zippered folder up front.",
+      "items": [
+        { "id": "d1", "text": "Driver's licenses, passports, Social Security cards, birth certificates, and marriage certificate", "done": false },
+        { "id": "d2", "text": "Paid itemized Deljo furnace maintenance receipt (needed for Wed Nov 25 Chicago closing!)", "done": false },
+        { "id": "d3", "text": "Chicago home sale closing paperwork, checkbook, and wire/attorney contact sheet", "done": false },
+        { "id": "d4", "text": "Signed 306 Calgary Drive lease copy + Cecilia Taylor & Imlach/Atlas mover contact numbers", "done": false },
+        { "id": "d5", "text": "Auto insurance cards, new Georgia renter's insurance proof, and health insurance cards", "done": false },
+        { "id": "d6", "text": "Laptops, iPads, work chargers, external hard drives, and jewelry / irreplaceable keepsakes", "done": false }
+      ]
+    },
+    {
+      "id": "firstnight",
+      "title": "First-Night Survival Box (306 Calgary Dr)",
+      "accent": "pine",
+      "subtitle": "So Friday evening at the new house is effortless even before boxes are unpacked.",
+      "items": [
+        { "id": "f1", "text": "Toilet paper (4 rolls), paper towels, hand soap, and dish soap", "done": false },
+        { "id": "f2", "text": "Heavy-duty trash bags, disinfectant wipes, and all-purpose counter spray", "done": false },
+        { "id": "f3", "text": "Box cutter / heavy scissors, painter's tape, and a Sharpie for labeling rooms", "done": false },
+        { "id": "f4", "text": "1 clean set of bed sheets, 2 sleeping pillows, and 2 bath towels", "done": false },
+        { "id": "f5", "text": "Shower curtain, plastic liner, rings, and bath mat", "done": false },
+        { "id": "f6", "text": "Power strip, extra phone chargers, and a small nightlight or flashlight", "done": false },
+        { "id": "f7", "text": "Morning coffee essentials, 2 mugs, disposable plates/utensils, and quick snacks", "done": false }
+      ]
+    },
+    {
+      "id": "chicago",
+      "title": "Chicago Condo Close-Out (Tue Nov 24 Before 4:15 PM)",
+      "accent": "terracotta",
+      "subtitle": "Quick final sweep of 2550 W Logan Blvd Unit 3F before pulling onto I-65 S.",
+      "items": [
+        { "id": "x1", "text": "Meet Deljo technician (2:00 to 4:00 PM CT, Ref #321873124) and save paid itemized receipt", "done": false },
+        { "id": "x2", "text": "Empty refrigerator/freezer, wipe down shelves, and run/empty dishwasher", "done": false },
+        { "id": "x3", "text": "Take out all trash/recycling and check every closet, drawer, cabinet, and storage locker", "done": false },
+        { "id": "x4", "text": "Snap final walkthrough photos of empty rooms and electric/gas meter readings (disconnects Nov 26)", "done": false },
+        { "id": "x5", "text": "Set thermostat to safe winter temp (~60 F), lock all windows/doors, and leave keys/fobs per closing instructions", "done": false }
+      ]
+    }
+  ]
+}

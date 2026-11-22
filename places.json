@@ -1,0 +1,332 @@
+[
+  {
+    "day": "day1",
+    "name": "Start: 2550 W Logan Blvd, Chicago",
+    "cat": "Home Start",
+    "lat": 41.9284,
+    "lng": -87.6915,
+    "desc": "Roll out ~4:15 PM CT Tue Nov 24 after 2 to 4 PM Deljo furnace check.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=2550+W+Logan+Blvd+Chicago+IL+60647",
+    "web": ""
+  },
+  {
+    "day": "rest",
+    "name": "Fair Oaks Farms (I-65 Exit 220)",
+    "cat": "Rest Stop",
+    "lat": 41.0517,
+    "lng": -87.2836,
+    "desc": "Great halfway stretch on Leg 1 with wide perimeter lawns for Winston (pets stay outside buildings).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Fair+Oaks+Farms+Indiana",
+    "web": "https://fairoaksfarms.com"
+  },
+  {
+    "day": "day1",
+    "name": "Staybridge Suites Greenwood (I-65 Exit 99)",
+    "cat": "Hotel (<80 lbs)",
+    "lat": 39.6152,
+    "lng": -86.0825,
+    "desc": "Verified <80 lbs dog-friendly ($75 fee), $131/nt Adv / $154 Flex, full kitchen & free hot breakfast.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Staybridge+Suites+Indianapolis+South+Greenwood+IN",
+    "web": "https://www.ihg.com/staybridge/hotels/us/en/greenwood/indgw/hoteldetail"
+  },
+  {
+    "day": "day1",
+    "name": "La Quinta Inn & Suites Indianapolis South",
+    "cat": "Hotel (<=75 lbs)",
+    "lat": 39.6908,
+    "lng": -86.0804,
+    "desc": "Verified <=75 lbs ($25 pet fee), $96/nt ($85 Member), free breakfast & parking.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=La+Quinta+Inn+Suites+Indianapolis+South+5120+Victory+Dr",
+    "web": "https://www.wyndhamhotels.com/laquinta/indianapolis-indiana/la-quinta-indianapolis-south/rooms-rates"
+  },
+  {
+    "day": "day1",
+    "name": "Holiday Inn Express Indianapolis South",
+    "cat": "Hotel (No Weight Limit)",
+    "lat": 39.6906,
+    "lng": -86.1497,
+    "desc": "Verified NO pet weight limit ($75 fee), $99/nt ($116 w/ tax), free breakfast & pet walking area.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Holiday+Inn+Express+Indianapolis+South+5151+South+East+St",
+    "web": "https://www.ihg.com/holidayinnexpress/hotels/us/en/indianapolis/indsx/hoteldetail"
+  },
+  {
+    "day": "day1",
+    "name": "Oaken Barrel Brewing Co. (Greenwood)",
+    "cat": "Easy Dinner",
+    "lat": 39.6138,
+    "lng": -86.0872,
+    "desc": "Cozy Indiana comfort food right near I-65 Exit 99 Greenwood.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Oaken+Barrel+Brewing+Company+Greenwood+IN",
+    "web": "https://oakenbarrel.com"
+  },
+  {
+    "day": "day1",
+    "name": "Revery (Old Town Greenwood)",
+    "cat": "Nice Dinner",
+    "lat": 39.6136,
+    "lng": -86.1088,
+    "desc": "Warm modern American dining in downtown Greenwood.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Revery+Greenwood+IN",
+    "web": "https://reverygreenwood.com"
+  },
+  {
+    "day": "rest",
+    "name": "Buc-ee's Smiths Grove, KY (I-65 Exit 38)",
+    "cat": "Rest Stop",
+    "lat": 37.0558,
+    "lng": -86.2134,
+    "desc": "Spotless restrooms, brisket & snacks. Strict no-pets-inside policy: tag-team walk Winston on outer grass.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Buc-ees+Smiths+Grove+KY",
+    "web": "https://buc-ees.com"
+  },
+  {
+    "day": "day2",
+    "name": "Historic Downtown Franklin Main Street",
+    "cat": "Walking & Shops",
+    "lat": 35.9251,
+    "lng": -86.8689,
+    "desc": "Flat brick sidewalks, Better Cities for Pets green paw stickers, and water bowls outside boutiques!",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Main+St+Franklin+TN+37064",
+    "web": "https://visitfranklin.com"
+  },
+  {
+    "day": "day2",
+    "name": "Frothy Monkey (Downtown Franklin)",
+    "cat": "Coffee & Patio",
+    "lat": 35.9228,
+    "lng": -86.8712,
+    "desc": "All-day cafe inside a historic church manse with spacious dog-friendly patio.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Frothy+Monkey+125+5th+Ave+S+Franklin+TN",
+    "web": "https://frothymonkey.com"
+  },
+  {
+    "day": "day2",
+    "name": "Merridee's Breadbasket",
+    "cat": "Bakery & Cafe",
+    "lat": 35.9256,
+    "lng": -86.871,
+    "desc": "Iconic Franklin scratch bakery for cinnamon rolls, soup, sandwiches & outdoor seating.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Merridees+Breadbasket+Franklin+TN",
+    "web": "https://merridees.com"
+  },
+  {
+    "day": "day2",
+    "name": "McGavock's Coffee Bar (The Harpeth)",
+    "cat": "Coffee Patio",
+    "lat": 35.9277,
+    "lng": -86.8684,
+    "desc": "Streetside dog-friendly coffee & pastry patio at the edge of Main Street.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=McGavocks+Coffee+Bar+Franklin+TN",
+    "web": "https://www.harpethhotel.com"
+  },
+  {
+    "day": "day2",
+    "name": "Finnley's Good Findings",
+    "cat": "Dog-Friendly Boutique",
+    "lat": 35.9242,
+    "lng": -86.87,
+    "desc": "Chic Main Street clothing & accessory boutique welcoming leashed dogs inside.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Finnleys+Good+Findings+Franklin+TN",
+    "web": "https://www.finnleysonline.com"
+  },
+  {
+    "day": "day2",
+    "name": "Hester & Cook (Main St Franklin)",
+    "cat": "Dog-Friendly Boutique",
+    "lat": 35.925,
+    "lng": -86.8692,
+    "desc": "Beautiful paper goods, table linens, and gifts (dog-friendly!).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Hester+and+Cook+Franklin+TN",
+    "web": "https://www.hesterandcook.com"
+  },
+  {
+    "day": "day2",
+    "name": "Anthropologie (Historic Franklin)",
+    "cat": "Dog-Friendly Boutique",
+    "lat": 35.9249,
+    "lng": -86.8698,
+    "desc": "Gorgeous historic Main Street storefront welcoming leashed pups.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Anthropologie+Main+St+Franklin+TN",
+    "web": "https://www.anthropologie.com"
+  },
+  {
+    "day": "day2",
+    "name": "Puckett's Grocery & Restaurant",
+    "cat": "Dinner & Patio",
+    "lat": 35.924,
+    "lng": -86.8714,
+    "desc": "Legendary Southern comfort food, live music, and dog-friendly patio seating.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Pucketts+Restaurant+Franklin+TN",
+    "web": "https://puckettsrestaurant.com/franklin/"
+  },
+  {
+    "day": "day2",
+    "name": "Americana Taphouse",
+    "cat": "Dinner & Creek Patio",
+    "lat": 35.9261,
+    "lng": -86.8681,
+    "desc": "Elevated tavern classics with a spacious shaded creekside patio for Winston.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Americana+Taphouse+Franklin+TN",
+    "web": "https://www.americanataphouse.com"
+  },
+  {
+    "day": "day2",
+    "name": "The Park at Harlinsdale Farm (K-9 Korral)",
+    "cat": "Dog Park",
+    "lat": 35.9369,
+    "lng": -86.8548,
+    "desc": "5 min from Main St: huge fenced off-leash dog park for Winston zoomies!",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Park+at+Harlinsdale+Farm+Franklin+TN",
+    "web": ""
+  },
+  {
+    "day": "day2",
+    "name": "Drury Plaza Hotel Nashville Franklin",
+    "cat": "Hotel (<=80 lbs)",
+    "lat": 35.9467,
+    "lng": -86.8147,
+    "desc": "Verified 80 lb limit ($65 fee), $149.99/nt, FREE hot breakfast + FREE 5:30 PM Kickback dinner & drinks!",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Drury+Plaza+Hotel+Nashville+Franklin+TN",
+    "web": "https://www.druryhotels.com/locations/nashville-tn/drury-plaza-hotel-nashville-franklin"
+  },
+  {
+    "day": "day2",
+    "name": "La Quinta Inn & Suites Nashville Franklin",
+    "cat": "Hotel (<=75 lbs)",
+    "lat": 35.927,
+    "lng": -86.8195,
+    "desc": "Verified <=75 lbs ($25 pet fee), $71/nt ($63 Member), 2.6 mi to Main St, free breakfast & parking.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=La+Quinta+Inn+Suites+Nashville+Franklin+TN",
+    "web": "https://www.wyndhamhotels.com/laquinta/franklin-tennessee/la-quinta-nashville-franklin/rooms-rates"
+  },
+  {
+    "day": "day3a",
+    "name": "Walnut Street Pedestrian Bridge",
+    "cat": "Scenic Walk",
+    "lat": 35.0596,
+    "lng": -85.3072,
+    "desc": "Reopened Oct 3, 2026! Iconic flat wooden-plank pedestrian bridge high over the Tennessee River.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Walnut+Street+Bridge+Chattanooga+TN",
+    "web": ""
+  },
+  {
+    "day": "day3a",
+    "name": "Bluff View Art District & Sculpture Garden",
+    "cat": "Scenic Walk & Art",
+    "lat": 35.0558,
+    "lng": -85.3059,
+    "desc": "Ivy-covered cobblestone lanes, outdoor River Gallery Sculpture Garden, and Rembrandts courtyard.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Bluff+View+Art+District+Chattanooga+TN",
+    "web": "https://www.bluffviewartdistrictchattanooga.com"
+  },
+  {
+    "day": "day3a",
+    "name": "Coolidge Park (NorthShore)",
+    "cat": "Riverfront Park",
+    "lat": 35.0616,
+    "lng": -85.3087,
+    "desc": "Wide flat grassy riverfront park right across Walnut Street Bridge for Winston.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Coolidge+Park+Chattanooga+TN",
+    "web": ""
+  },
+  {
+    "day": "day3a",
+    "name": "Frazier Avenue Shops (Almanac Supply & Plum Nelly)",
+    "cat": "NorthShore Shops",
+    "lat": 35.0631,
+    "lng": -85.3081,
+    "desc": "Cute NorthShore indie boutique strip (window-shop Thanksgiving Day & bookmark for our weekend trip back!).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Almanac+Supply+Co+Frazier+Ave+Chattanooga+TN",
+    "web": "https://almanacsupplyco.com"
+  },
+  {
+    "day": "day3a",
+    "name": "Point Park Overlook (Lookout Mountain)",
+    "cat": "Zero-Walk View",
+    "lat": 35.011,
+    "lng": -85.349,
+    "desc": "Optional 10-min scenic drive up Lookout Mountain for sweeping valley views right from the car.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Point+Park+Lookout+Mountain+TN",
+    "web": ""
+  },
+  {
+    "day": "day3a",
+    "name": "Elsie's Daughter (Chattanooga Choo Choo)",
+    "cat": "Thanksgiving Backup",
+    "lat": 35.0372,
+    "lng": -85.3075,
+    "desc": "Backup Thanksgiving lunch: 3-course prix fixe ($95/adult), open 2:00 & 2:15 PM ET.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Elsies+Daughter+Chattanooga+TN",
+    "web": "https://www.opentable.com"
+  },
+  {
+    "day": "rest",
+    "name": "Buc-ee's Calhoun, GA (I-75 Exit 310)",
+    "cat": "Rest Stop",
+    "lat": 34.4426,
+    "lng": -84.9182,
+    "desc": "Halfway between Chattanooga and Trilith. Spotless restrooms & snacks (walk Winston on perimeter grass).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Buc-ees+Calhoun+GA",
+    "web": "https://buc-ees.com"
+  },
+  {
+    "day": "day3b",
+    "name": "Trilith Guesthouse & Prologue Thanksgiving Feast",
+    "cat": "Thanksgiving Stay & Feast",
+    "lat": 33.4737,
+    "lng": -84.5023,
+    "desc": "Boutique Marriott Tribute hotel (<=75 lbs dog approved!). Prologue Thanksgiving Feast 11 AM to 6 PM ET ($70/adult, last seating 5 PM).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Trilith+Guesthouse+350+Trilith+Pkwy+Fayetteville+GA",
+    "web": "https://www.opentable.com/booking/experiences-availability?rid=1340353&restref=1340353&experienceId=810853"
+  },
+  {
+    "day": "day3b",
+    "name": "Harvest & Grace (Town at Trilith)",
+    "cat": "Fri Morning Coffee",
+    "lat": 33.4718,
+    "lng": -84.5037,
+    "desc": "Specialty lattes & scratch breakfast with spacious dog-friendly patio (water stations & leash tie-downs!).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Harvest+and+Grace+Trilith+Fayetteville+GA",
+    "web": "https://harvestgracecafe.com"
+  },
+  {
+    "day": "day3b",
+    "name": "Woodstone Bakery & Cafe (Town at Trilith)",
+    "cat": "Fri Pastries",
+    "lat": 33.4723,
+    "lng": -84.5029,
+    "desc": "Fresh pastries and espresso steps from Trilith Guesthouse.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Woodstone+Bakery+and+Cafe+Fayetteville+GA",
+    "web": ""
+  },
+  {
+    "day": "day4",
+    "name": "Welcome Home: 306 Calgary Drive, Peachtree City",
+    "cat": "New Home!",
+    "lat": 33.3614,
+    "lng": -84.5485,
+    "desc": "Only 15 min from Trilith! Tall Georgia pines, fenced backyard pool, and 100+ miles of golf-cart paths.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=306+Calgary+Drive+Peachtree+City+GA+30269",
+    "web": ""
+  },
+  {
+    "day": "day4",
+    "name": "Historic Main Street Senoia (15 min south)",
+    "cat": "Local Cute Town",
+    "lat": 33.3023,
+    "lng": -84.5538,
+    "desc": "Adorable nearby Georgia Main Street with indie boutiques, porches, and coffee shops.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Main+St+Senoia+GA+30276",
+    "web": "https://www.enjoysenoia.com"
+  },
+  {
+    "day": "day4",
+    "name": "Serenbe Village (22 min NW)",
+    "cat": "Local Trails & Cafes",
+    "lat": 33.5387,
+    "lng": -84.7495,
+    "desc": "Artsy farm-to-table village with wooded trails, weekend farmers markets, and cozy cafes.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Serenbe+Chattahoochee+Hills+GA",
+    "web": "https://serenbe.com"
+  }
+]
