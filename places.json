@@ -31,23 +31,23 @@
   },
   {
     "day": "day1",
-    "name": "La Quinta Inn & Suites Indianapolis South",
-    "cat": "Hotel (<=75 lbs)",
-    "lat": 39.6908,
-    "lng": -86.0804,
-    "desc": "Verified <=75 lbs ($25 pet fee), $96/nt ($85 Member), free breakfast & parking.",
-    "gmaps": "https://www.google.com/maps/search/?api=1&query=La+Quinta+Inn+Suites+Indianapolis+South+5120+Victory+Dr",
-    "web": "https://www.wyndhamhotels.com/laquinta/indianapolis-indiana/la-quinta-indianapolis-south/rooms-rates"
+    "name": "Best Western Plus Greenwood (I-65 Exit 99)",
+    "cat": "Hotel (<=80 lbs)",
+    "lat": 39.6129,
+    "lng": -86.0811,
+    "desc": "Top budget Exit 99 pick! 4.2 stars, verified <=80 lbs ($25 pet fee), free breakfast (~$116 OTA / ~$144 direct all-in).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Best+Western+Plus+Greenwood+Indy+South+1281+S+Park+Dr+Greenwood+IN",
+    "web": "https://www.bestwestern.com/en_US/book/hotel-rooms.15127.html"
   },
   {
     "day": "day1",
-    "name": "Holiday Inn Express Indianapolis South",
-    "cat": "Hotel (No Weight Limit)",
-    "lat": 39.6906,
-    "lng": -86.1497,
-    "desc": "Verified NO pet weight limit ($75 fee), $99/nt ($116 w/ tax), free breakfast & pet walking area.",
-    "gmaps": "https://www.google.com/maps/search/?api=1&query=Holiday+Inn+Express+Indianapolis+South+5151+South+East+St",
-    "web": "https://www.ihg.com/holidayinnexpress/hotels/us/en/indianapolis/indsx/hoteldetail"
+    "name": "La Quinta Columbus-Edinburgh (I-65 Exit 76B)",
+    "cat": "Hotel (<=75 lbs)",
+    "lat": 39.2662,
+    "lng": -85.9481,
+    "desc": "Best overall budget corridor pick! 4.2 stars, verified <=75 lbs ($25 fee), free hot breakfast (~$116 to $125 all-in, trims 25 min off Day 2!).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=La+Quinta+Inn+Suites+Columbus+Edinburgh+101+Carrie+Ln+Columbus+IN",
+    "web": "https://www.wyndhamhotels.com/laquinta/columbus-indiana/la-quinta-columbus-edinburgh/overview"
   },
   {
     "day": "day1",
@@ -185,19 +185,19 @@
     "cat": "Hotel (<=80 lbs)",
     "lat": 35.9467,
     "lng": -86.8147,
-    "desc": "Verified 80 lb limit ($65 fee), $149.99/nt, FREE hot breakfast + FREE 5:30 PM Kickback dinner & drinks!",
+    "desc": "4.7 stars! Verified 80 lb combined limit ($65+tax fee), ~$206 OTA / ~$244 member direct with FREE hot breakfast + FREE 5:30 PM Kickback dinner & drinks!",
     "gmaps": "https://www.google.com/maps/search/?api=1&query=Drury+Plaza+Hotel+Nashville+Franklin+TN",
     "web": "https://www.druryhotels.com/locations/nashville-tn/drury-plaza-hotel-nashville-franklin"
   },
   {
     "day": "day2",
-    "name": "La Quinta Inn & Suites Nashville Franklin",
-    "cat": "Hotel (<=75 lbs)",
-    "lat": 35.927,
-    "lng": -86.8195,
-    "desc": "Verified <=75 lbs ($25 pet fee), $71/nt ($63 Member), 2.6 mi to Main St, free breakfast & parking.",
-    "gmaps": "https://www.google.com/maps/search/?api=1&query=La+Quinta+Inn+Suites+Nashville+Franklin+TN",
-    "web": "https://www.wyndhamhotels.com/laquinta/franklin-tennessee/la-quinta-nashville-franklin/rooms-rates"
+    "name": "Candlewood Suites Nashville - Franklin",
+    "cat": "Hotel (<=80 lbs)",
+    "lat": 35.9182,
+    "lng": -86.8354,
+    "desc": "Lowest clean all-in & closest to Main St (2.2 mi / 5 min)! 4.5 stars, verified 80 lb max ($75 fee), full kitchen (~$167 OTA / ~$192 direct all-in).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Candlewood+Suites+Nashville+Franklin+1305+Murfreesboro+Rd+Franklin+TN",
+    "web": "https://www.ihg.com/candlewood/hotels/us/en/franklin/frltn/hoteldetail"
   },
   {
     "day": "day3a",
