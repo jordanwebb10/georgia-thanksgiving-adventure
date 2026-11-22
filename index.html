@@ -1163,6 +1163,57 @@
       cursor: pointer;
     }
 
+    /* Storybook Trailer Video Card */
+    .video-card {
+      background: linear-gradient(135deg, #fffdf7, #fbf0d3);
+      border: var(--border-ink);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-comic);
+      padding: clamp(1.1rem, 3vw, 1.85rem);
+    }
+
+    .video-shell {
+      margin-top: 0.9rem;
+      border: 3px solid var(--ink);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+      background: #231a14;
+      box-shadow: var(--shadow-comic-sm);
+    }
+
+    .video-shell video {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 540px;
+      background: #231a14;
+    }
+
+    /* Confirmed Booking Banner */
+    .confirmed-banner {
+      margin: 0 0 1.15rem;
+      padding: 0.9rem 1.1rem;
+      background: var(--pine-soft);
+      border: 2.5px solid var(--pine);
+      border-radius: var(--radius-md);
+      box-shadow: 3px 3px 0 var(--pine);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.65rem;
+    }
+
+    .confirmed-banner p {
+      margin: 0;
+      font-size: 0.95rem;
+      color: var(--ink);
+    }
+
+    .bonus-panel-wrap {
+      margin-top: 1.35rem;
+    }
+
     /* Native Exclusive Accordion (<details name="...">) */
     .accordion-stack {
       display: grid;
@@ -1579,13 +1630,14 @@
       <a class="brand-tag" href="#top">Webb Family Road Trip</a>
       <nav aria-label="Trip chapters">
         <ul class="nav-links">
+          <li><a href="#trip-video">Mini-Movie</a></li>
           <li><a href="#route-map">Starred Map</a></li>
           <li><a href="#day-1">Tue: Indy</a></li>
           <li><a href="#day-2">Wed: Franklin</a></li>
           <li><a href="#day-3-chatt">Thu: Chattanooga</a></li>
-          <li><a href="#day-3-trilith">Thanksgiving Feast</a></li>
+          <li><a href="#day-3-trilith">Trilith Suite!</a></li>
           <li><a href="#day-4">Fri: Home!</a></li>
-          <li><a href="#comfort-kit">Comfort &amp; Tips</a></li>
+          <li><a href="#comfort-kit">Packing List</a></li>
         </ul>
       </nav>
     </div>
@@ -1630,21 +1682,39 @@
 
         <div class="stats-strip" aria-label="Trip summary numbers">
           <div class="stat-box">
-            <div class="stat-value">~750 mi</div>
-            <div class="stat-label">Broken into 4 easy legs</div>
+            <div class="stat-value">10 Panels</div>
+            <div class="stat-label">Custom comic scenes + video</div>
           </div>
           <div class="stat-box">
             <div class="stat-value">33 Stars</div>
             <div class="stat-label">Pinned stops &amp; shops below</div>
           </div>
           <div class="stat-box">
-            <div class="stat-value">3 hrs</div>
-            <div class="stat-label">Chattanooga bridge &amp; bluff stroll</div>
+            <div class="stat-value">Suite Set!</div>
+            <div class="stat-label">Trilith Guesthouse confirmed</div>
           </div>
           <div class="stat-box">
             <div class="stat-value">15 mins</div>
             <div class="stat-label">Friday hop to 306 Calgary Dr</div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STORYBOOK MINI-MOVIE TRAILER -->
+    <section id="trip-video" class="chapter-section reveal-panel" aria-labelledby="video-heading">
+      <div class="video-card">
+        <div class="kicker-row">
+          <span class="comic-badge terracotta">35-Second Storybook Trailer</span>
+          <span class="comic-badge pine">Turn Sound On!</span>
+        </div>
+        <h2 id="video-heading" class="section-heading">Our Road Trip Mini-Movie (Chicago to Georgia)</h2>
+        <p class="section-lead">Press play for a cozy animated preview of every single chapter from Chicago to 306 Calgary Drive, complete with warm acoustic music.</p>
+        <div class="video-shell">
+          <video controls playsinline preload="metadata" poster="images/01-hero-roadtrip-v3.jpg">
+            <source src="webb-georgia-adventure.mp4" type="video/mp4">
+            Your browser does not support embedded MP4 playback. You can download our <a href="webb-georgia-adventure.mp4">road trip trailer video here</a>.
+          </video>
         </div>
       </div>
     </section>
@@ -1700,11 +1770,28 @@
           </div>
         </div>
 
-        <ul class="timeline-mini">
-          <li><span class="time-stamp">2:00 to 4:00 PM CT</span> Wrap up the Deljo furnace check at <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=2550+W+Logan+Blvd+Chicago+IL+60647" target="_blank" rel="noopener noreferrer">2550 W Logan Blvd</a> (grab the paid itemized receipt for closing).</li>
-          <li><span class="time-stamp">~4:15 PM CT</span> Load the pillows, blankets, and Winston into the car and roll south on I-65 S.</li>
-          <li><span class="time-stamp">~8:15 PM ET</span> Arrive in <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=Greenwood+IN+46143" target="_blank" rel="noopener noreferrer">South Indianapolis / Greenwood</a> (right on I-65 S, saving 20 minutes off Wednesday morning!). Check in, grab easy comfort food, and get cozy.</li>
-        </ul>
+        <div class="chapter-grid flip">
+          <div>
+            <ul class="timeline-mini">
+              <li><span class="time-stamp">2:00 to 4:00 PM CT</span> Wrap up the Deljo furnace check at <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=2550+W+Logan+Blvd+Chicago+IL+60647" target="_blank" rel="noopener noreferrer">2550 W Logan Blvd</a> (grab the paid itemized receipt for closing).</li>
+              <li><span class="time-stamp">~4:15 PM CT</span> Load the pillows, blankets, and Winston into the car and roll south on I-65 S.</li>
+              <li><span class="time-stamp">~8:15 to 8:40 PM ET</span> Arrive in <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=Columbus+IN+47201" target="_blank" rel="noopener noreferrer">South Indy / Columbus, IN</a> right along I-65 S (trimming 25 min off Wednesday!). Check in, grab easy comfort food, and get cozy.</li>
+            </ul>
+          </div>
+
+          <figure class="comic-frame">
+            <button type="button" class="comic-trigger" data-lightbox-src="images/07-indiana-cozy-pitstop.webp" data-lightbox-fallback="images/07-indiana-cozy-pitstop.jpg" data-lightbox-title="Chapter 1: Cozy Indiana Night-1 Pit Stop" data-lightbox-caption="Janie propped up in fluffy pillows with a cream knit blanket and steaming tea, Jordan delivering cozy hotel-room dinner, and Winston snoozing happily beside his spiky ball under the starry Indiana sky.">
+              <picture>
+                <source srcset="images/07-indiana-cozy-pitstop.webp" type="image/webp">
+                <img src="images/07-indiana-cozy-pitstop.jpg" alt="Comic watercolor illustration of Janie curled up in a cozy Indiana hotel bed with warm tea while Jordan hands her takeout dinner and Winston sleeps happily on his dog blanket beside his spiky ball" width="1100" height="821" loading="lazy">
+              </picture>
+            </button>
+            <figcaption class="comic-caption">
+              <span>Panel 2: Cozy Night-1 recovery pit stop in pajamas with hot tea, snacks, and one very sleepy pup.</span>
+              <span class="zoom-hint">Tap art to zoom</span>
+            </figcaption>
+          </figure>
+        </div>
 
         <div class="info-cards">
           <div class="sub-box amber">
@@ -1803,9 +1890,24 @@
             <ul>
               <li><strong>On the way (I-65 S):</strong> Kentucky Welcome Centers + <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=Buc-ees+Smiths+Grove+KY" target="_blank" rel="noopener noreferrer">Buc-ee's Smiths Grove, KY</a> (Exit 38: spotless restrooms &amp; road snacks; pets stay outside on perimeter grass!).</li>
               <li><strong>Winston zoomies:</strong> <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=Park+at+Harlinsdale+Farm+Franklin+TN" target="_blank" rel="noopener noreferrer">The Park at Harlinsdale Farm (K-9 Korral)</a> (5 min from Main St, huge fenced dog park!).</li>
-              <li><strong>Verified 70 lb dog stays (Wed Nov 25):</strong> <a class="place-link" href="https://www.ihg.com/candlewood/hotels/us/en/franklin/frltn/hoteldetail" target="_blank" rel="noopener noreferrer">Candlewood Suites Franklin</a> (4.5 stars, only 2.2 mi to Main St, 80 lb max, ~$167 OTA / ~$192 direct all-in), <a class="place-link" href="https://www.hilton.com/en/hotels/bnatnru-tru-franklin-cool-springs-nashville/" target="_blank" rel="noopener noreferrer">Tru by Hilton Cool Springs</a> (4.5 stars, big dogs OK, free breakfast, ~$183 OTA all-in), or <a class="place-link" href="https://www.druryhotels.com/locations/nashville-tn/drury-plaza-hotel-nashville-franklin" target="_blank" rel="noopener noreferrer">Drury Plaza Franklin</a> (4.7 stars, 80 lb combined, ~$206 OTA / ~$244 member direct with FREE hot dinner, drinks &amp; breakfast!).</li>
+              <li><strong>Verified 70 lb dog stays (Wed Nov 25):</strong> <a class="place-link" href="https://www.ihg.com/candlewood/hotels/us/en/franklin/frltn/hoteldetail" target="_blank" rel="noopener noreferrer">Candlewood Suites Franklin</a> (Top pick! 4.5 stars, only 2.2 mi to Main St, spacious 385 sq ft King Studios or 625 sq ft 1-Bedroom Suites with full kitchens, ~$187 to $237 all-in), <a class="place-link" href="https://www.hilton.com/en/hotels/bnatnru-tru-franklin-cool-springs-nashville/" target="_blank" rel="noopener noreferrer">Tru by Hilton Cool Springs</a> (4.5 stars, free breakfast, ~$232 Flex all-in), or <a class="place-link" href="https://www.druryhotels.com/locations/nashville-tn/drury-plaza-hotel-nashville-franklin" target="_blank" rel="noopener noreferrer">Drury Plaza Franklin</a> (note: Drury requires pets to use stairwells only and cannot be left alone in rooms).</li>
             </ul>
           </div>
+        </div>
+
+        <div class="bonus-panel-wrap">
+          <figure class="comic-frame">
+            <button type="button" class="comic-trigger" data-lightbox-src="images/08-franklin-coffee-zoomies.webp" data-lightbox-fallback="images/08-franklin-coffee-zoomies.jpg" data-lightbox-title="Chapter 2 Bonus: Harlinsdale Farm Coffee & Winston Zoomies!" data-lightbox-caption="Steaming mugs in hand beside the white rail fence at Franklin's historic Harlinsdale Farm as Winston hits top speed chasing his spiky ball through swirling autumn maple leaves!">
+              <picture>
+                <source srcset="images/08-franklin-coffee-zoomies.webp" type="image/webp">
+                <img src="images/08-franklin-coffee-zoomies.jpg" alt="Comic watercolor illustration of Jordan and Janie laughing with steaming coffee mugs beside a white rail fence and red barn in Franklin while Winston leaps mid-air chasing his colorful spiky ball through autumn leaves" width="1100" height="821" loading="lazy">
+              </picture>
+            </button>
+            <figcaption class="comic-caption">
+              <span>Panel 4: Franklin coffee breaks &amp; maximum-velocity Winston zoomies at Harlinsdale Farm!</span>
+              <span class="zoom-hint">Tap art to zoom</span>
+            </figcaption>
+          </figure>
         </div>
       </article>
     </section>
@@ -1883,6 +1985,21 @@
             </ul>
           </div>
         </div>
+
+        <div class="bonus-panel-wrap">
+          <figure class="comic-frame">
+            <button type="button" class="comic-trigger" data-lightbox-src="images/09-lookout-mountain-vista.webp" data-lightbox-fallback="images/09-lookout-mountain-vista.jpg" data-lightbox-title="Chapter 3A Bonus: Lookout Mountain Thanksgiving Overlook" data-lightbox-caption="Sweeping golden-autumn views over the curving Tennessee River and Appalachian ridges right from the scenic stone overlook on Lookout Mountain.">
+              <picture>
+                <source srcset="images/09-lookout-mountain-vista.webp" type="image/webp">
+                <img src="images/09-lookout-mountain-vista.jpg" alt="Comic watercolor panorama of Jordan with his arm around Janie and Winston sitting proudly beside a stone overlook wall above the curving Tennessee River and autumn Lookout Mountain ridges" width="1100" height="821" loading="lazy">
+              </picture>
+            </button>
+            <figcaption class="comic-caption">
+              <span>Panel 6: Sweeping Tennessee River &amp; autumn ridge views from Chattanooga's Lookout Mountain overlook.</span>
+              <span class="zoom-hint">Tap art to zoom</span>
+            </figcaption>
+          </figure>
+        </div>
       </article>
     </section>
 
@@ -1891,14 +2008,20 @@
       <article class="chapter-card">
         <div class="chapter-header">
           <div>
+            <span class="comic-badge pine">CONFIRMED &amp; UPGRADED!</span>
             <span class="comic-badge terracotta">Chapter 3B: Thanksgiving Evening, Nov 26</span>
-            <h2 id="day-3-trilith-title">Trilith Guesthouse &amp; Thanksgiving Feast</h2>
+            <h2 id="day-3-trilith-title">Trilith Guesthouse Suite &amp; Thanksgiving Feast</h2>
           </div>
           <div class="drive-meta">
-            <span class="meta-chip">~2h 10m from Chattanooga</span>
-            <span class="meta-chip">Check-In ~4:10 PM ET</span>
-            <span class="meta-chip">Winston Approved (up to 75 lbs!)</span>
+            <span class="meta-chip">Suite Upgrade Confirmed!</span>
+            <span class="meta-chip">Winston Officially Welcomed</span>
+            <span class="meta-chip">Prologue Feast Set!</span>
           </div>
+        </div>
+
+        <div class="confirmed-banner" role="status">
+          <p><strong>Officially Booked!</strong> Our friends at <strong>Trilith Guesthouse</strong> locked in our Thanksgiving night stay with a <strong>complimentary Suite upgrade</strong> (extra living room space for Janie to relax and Winston to stretch out!), confirmed Winston is warmly welcomed, and are setting up our <strong>Prologue Thanksgiving Feast</strong> table!</p>
+          <span class="comic-badge pine">Locked In!</span>
         </div>
 
         <div class="chapter-grid">
@@ -1956,13 +2079,28 @@
             </ul>
           </div>
           <div class="sub-box amber">
-            <h3>Trilith Guesthouse Key Details</h3>
+            <h3>Trilith Guesthouse Key Details (Confirmed!)</h3>
             <ul>
-              <li><strong>Pet &amp; Parking Policy:</strong> Verified verbatim on Marriott.com: welcomes 1 dog under <strong>75 lbs</strong> ($150 per-stay pet fee). Valet parking is $25/day. <strong>Best Direct Packages:</strong> "Discover Trilith" ($279 w/ tax, includes $25 valet) or "$50 Folio/Dining Credit" ($291 w/ tax, $33 net savings!). <a class="place-link" href="https://www.marriott.com/en-us/hotels/atlfx-trilith-guesthouse-fayetteville-ga-a-tribute-portfolio-hotel/overview/" target="_blank" rel="noopener noreferrer">Marriott Property Page</a>.</li>
+              <li><strong>Suite &amp; Pet Status:</strong> Confirmed suite upgrade + Winston officially welcomed (property welcomes 1 dog under <strong>75 lbs</strong>; valet parking on site). <a class="place-link" href="https://www.marriott.com/en-us/hotels/atlfx-trilith-guesthouse-fayetteville-ga-a-tribute-portfolio-hotel/overview/" target="_blank" rel="noopener noreferrer">Marriott Property Page</a>.</li>
               <li><strong>Village Strolling:</strong> Completely flat sidewalks, pocket parks, and European-style architecture right outside the lobby door.</li>
               <li><strong>Distance to Home:</strong> Just <strong>9 miles (15 minutes)</strong> to <a class="place-link" href="https://www.google.com/maps/search/?api=1&query=306+Calgary+Drive+Peachtree+City+GA+30269" target="_blank" rel="noopener noreferrer">306 Calgary Drive</a> Friday morning!</li>
             </ul>
           </div>
+        </div>
+
+        <div class="bonus-panel-wrap">
+          <figure class="comic-frame">
+            <button type="button" class="comic-trigger" data-lightbox-src="images/10-trilith-morning-coffee.webp" data-lightbox-fallback="images/10-trilith-morning-coffee.jpg" data-lightbox-title="Chapter 3B Bonus: Sunny Friday Morning Lattes in Town at Trilith" data-lightbox-caption="Clinking warm lattes over fresh golden croissants on the sunny cobblestone patio right outside Trilith Guesthouse while Winston politely eyes the pastries before our 15-minute hop home!">
+              <picture>
+                <source srcset="images/10-trilith-morning-coffee.webp" type="image/webp">
+                <img src="images/10-trilith-morning-coffee.jpg" alt="Comic watercolor illustration of Jordan and Janie clinking steaming latte mugs over fresh croissants at a sunny cobblestone cafe patio in Town at Trilith while Winston sits politely beside his water bowl eyeing the pastries" width="1100" height="821" loading="lazy">
+              </picture>
+            </button>
+            <figcaption class="comic-caption">
+              <span>Panel 8: Sunny Friday morning lattes &amp; croissants in Town at Trilith right before picking up our house keys!</span>
+              <span class="zoom-hint">Tap art to zoom</span>
+            </figcaption>
+          </figure>
         </div>
       </article>
     </section>
