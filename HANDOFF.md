@@ -33,14 +33,9 @@
 
 ## 2. Open Tasks Ready to Pick Up in Cloud Mode
 
-### A. Lock Down the GitHub Pages Site with a Shared Passcode (GitHub-Only)
-- **Jordan's preference:** Wants to stay strictly on **GitHub** (no extra Cloudflare/Vercel accounts) with a passcode/code only he and Janie know.
-- **Important GitHub limitation already briefed:** Free and Pro GitHub Pages have no native server-side password login (only GitHub Enterprise Cloud supports private GitHub Pages).
-- **Recommended GitHub-only implementation (pending Jordan's passcode & asset preference):**
-  - Build a clean **Web Crypto AES-256-GCM encrypted** `index.html` gate (same zero-server cryptography as StatiCrypt): displays a cozy storybook `"Enter Our Family Passcode"` unlock screen, derives the AES key in-browser via PBKDF2, decrypts the full storybook content on match, and saves unlock state locally on Jordan & Janie's phones (with `<meta name="robots" content="noindex, nofollow">` added).
-  - Clarify with Jordan before implementing:
-    1. Exact passcode (or placeholder so he can run/set it cleanly), and
-    2. Whether he wants **HTML text/itinerary encrypted** (fast, ~5 min) OR **images encrypted too** (and note that Git history in the current public repo would still retain old unencrypted commits unless rotated to a fresh repo).
+### A. Site Passcode Lock (Option 1: COMPLETED & LIVE!)
+- **Status:** `index.html` on GitHub Pages is now **AES-256-GCM encrypted** (PBKDF2-HMAC-SHA256, `250,000` iterations, Web Crypto native browser decryption) with `<meta name="robots" content="noindex, nofollow">` and a comic-themed `"Webb Family Private Storybook"` unlock screen (supports iPhone/desktop password autofill, Show/Hide toggle, remembered unlock via derived AES key in `localStorage`, and a `"Lock Storybook"` button in the footer).
+- **Important for future edits:** Do NOT overwrite `index.html` with unencrypted HTML. Plaintext source stays locally on Jordan's laptop, and NEVER commit the passcode string to Git. If Jordan later wants Option 2 (full image/asset encryption in a fresh repo with clean Git history), ask for confirmation first.
 
 ### B. Night 1 (Tue Nov 24) & Night 2 (Wed Nov 25) Hotel Bookings (70 lb Dog Friendly)
 Still need final booking confirmation from Jordan (never enter credit card info automatically; prep links/details cleanly):
