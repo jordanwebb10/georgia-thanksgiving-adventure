@@ -9,7 +9,7 @@
 ---
 
 ## 1. What Is Already Completed & Live
-1. **Storybook Website V4 Live on GitHub Pages (`main` branch, commit `c47dae4`):**
+1. **Storybook Website V5 Live on GitHub Pages (`main` branch):**
    - **11 custom hand-inked watercolor comic panels** (`images/00-splash-three-faces` through `images/11-aggie-winston-finale`, both `.webp` and `.jpg`):
      - `00`: 3-faces circular splash cover & hero medallion
      - `01` to `06`: Hero road trip, Franklin Main St, Chattanooga bridge, Trilith feast, Welcome Home PTC, Georgia trails
@@ -18,6 +18,11 @@
      - `09`: Chattanooga Lookout Mountain panoramic vista
      - `10`: Sunny Friday morning lattes & croissants in Town at Trilith
      - `11` (`#aggie-finale`): Post-Credits Bonus Panel of Aggie & Winston sitting together in the sunny Georgia autumn backyard (ear scratches + spiky ball)
+   - **Secret 16-Bit Post-Credits Interactive RPG Cutscene (`#secret-postcredits`):**
+     - Triggered via the retro teaser bar right below Panel 11 (`"WAIT... DON'T CLOSE THE BOOK YET!"` / `"Tap for Secret Post-Credits Scene"`).
+     - Flips cleanly from watercolor comic style into a starry midnight 16-bit SNES/GBA arcade theater (`'Press Start 2P'` & `'Silkscreen'` typography, twinkling CSS pixel stars, chunky gold/cyan double border, subtle CRT scanline sheen, mobile-first layout, and full `prefers-reduced-motion` + keyboard support).
+     - **4-Beat Interactive Tap-Through RPG Cutscene** featuring `images/12-postcredits-trio.{webp,jpg}` (`1100x614`): Winston, Guardian Angel Bella, and 16-bit Pixel Aggie (with her borrowed Mind Stone) gear up for `"MISSION: SAVE MOM!"`, with typewriter dialogue, Sound ON/OFF toggle, Skip to Title, and authentic iOS Safari-safe Web Audio synth ported directly from `winston-game` (Winston's double-woof formant bark, Bella's 5-note starlight chime, Aggie's chic 3-tone robot chirp, gentle typewriter blips, and triumphant 16-bit title fanfare).
+     - **Grand Finale Title Card** cross-fading to `images/13-postcredits-titlecard.{webp,jpg}` (`1100x614`) with a high-contrast retro arcade overlay (`COMING SOON` / `WINSTON & AGGIE'S GEORGIA ODYSSEY` / `MISSION: SAVE MOM!` / `Featuring Guardian Angel Bella • Powered by Mind Stone & Spiky Ball`), plus `Replay Cutscene` and `Close Secret Scene` controls.
    - **35-second HD Mini-Movie Trailer** (`webb-georgia-adventure.mp4`, `1280x720`, 24 fps, H.264 + acoustic Rhodes soundtrack).
    - **Fixed Interactive Map (33 Starred Stops):** Switched from broken CARTO tiles to zero-API-key Esri World Street Map + Esri World Topo Map toggle.
    - **Shared Packing Checklist (`41` items across 6 categories):** Backed by `checklist.json` and `PACKING_LOG.md`, with custom item add forms and `All` / `Unpacked Only` filters.
