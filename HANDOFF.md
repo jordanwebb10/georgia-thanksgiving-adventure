@@ -27,6 +27,8 @@
    - **Fixed Interactive Map (33 Starred Stops):** Switched from broken CARTO tiles to zero-API-key Esri World Street Map + Esri World Topo Map toggle.
    - **Shared Packing Checklist (`41` items across 6 categories):** Backed by `checklist.json` and `PACKING_LOG.md`, with custom item add forms and `All` / `Unpacked Only` filters.
    - **Monday Morning, Nov 23 Farewell Breakfast Added:** **Lula Cafe** (`2537 N Kedzie Blvd`, Logan Square, `9:00 AM to 3:00 PM`, walk-in only, closed Tuesdays) added to Chapter 1 timeline (`#day-1`).
+   - **Live 5-Day Route Weather Forecast Added (`#weather-summary` + Per-Day Chapter Strips):** Pre-rendered Open-Meteo snapshot for Nov 23 to Nov 27 (`Chicago`, `South Indy / Columbus`, `Franklin`, `Chattanooga`, `Trilith / Peachtree City`) with hourly activity-window temps, precip `%`, wind `mph`, sunset times, and automatic zero-API-key Open-Meteo live browser refresh + manual Refresh button.
+   - **Secret 16-Bit Post-Credits RPG Cutscene (`#secret-postcredits`):** Interactive 4-beat `winston-game` crossover featuring Winston, Guardian Angel Bella, and 16-bit Aggie (`MISSION: SAVE MOM!`) with authentic ported Web Audio bark/chime synth.
    - **Night 3 Confirmed Banner:** Trilith Guesthouse suite stay & Prologue Thanksgiving Feast marked **CONFIRMED & UPGRADED!** on the public page (private booking IDs and rates intentionally kept out of this public repo).
    - **Legacy Work Worker Removed:** Old U.S. Soccer Cloudflare Worker (`georgia-thanksgiving-adventure`) was deleted cleanly so personal and work infrastructure stay separated.
 2. **Aggie Character & WhatsApp Lookbook Continuity:**
