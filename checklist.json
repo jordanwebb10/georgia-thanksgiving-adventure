@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T18:10:00-06:00",
-  "updated_by": "Jordan & Assistant",
+  "updated_at": "2026-11-22T20:36:00-06:00",
+  "updated_by": "Jordan",
   "categories": [
     {
       "id": "janie",
@@ -15,7 +15,8 @@
         { "id": "j5", "text": "Easy slip-on walking shoes for Franklin Main St and Chattanooga Bridge", "done": false },
         { "id": "j6", "text": "Two insulated travel mugs for coffee runs + favorite road-trip snacks", "done": false },
         { "id": "j7", "text": "Sunglasses, lip balm, hand lotion, tissues, and hair clips/scrunchies", "done": false },
-        { "id": "j8", "text": "Downloaded podcasts, audiobooks, road-trip playlist, and long phone charger cable", "done": false }
+        { "id": "j8", "text": "Downloaded podcasts, audiobooks, road-trip playlist, and long phone charger cable", "done": false },
+        { "id": "j9", "text": "Lactaid (keep handy up front for coffee stops, restaurants & Thanksgiving feast)", "done": false }
       ]
     },
     {

@@ -1,13 +1,13 @@
 # Webb Georgia Road Trip: Shared Packing Checklist Log
 
-- **Last Updated:** `2026-11-21T18:10:00-06:00`
-- **Updated By:** Jordan & Assistant
-- **Progress:** `0 of 41` items packed
+- **Last Updated:** `2026-11-22T20:36:00-06:00`
+- **Updated By:** Jordan
+- **Progress:** `0 of 42` items packed
 - **Live Storybook & Interactive Checklist:** https://jordanwebb10.github.io/georgia-thanksgiving-adventure/#comfort-kit
 
 ---
 
-## Janie's Recovery & Cozy Car Setup (`0/8`)
+## Janie's Recovery & Cozy Car Setup (`0/9`)
 *Everything within arm's reach in the front seat so you stay super comfortable.*
 
 - [ ] Soft lumbar pillow + seat cushion for the passenger seat (`j1`)
@@ -18,6 +18,7 @@
 - [ ] Two insulated travel mugs for coffee runs + favorite road-trip snacks (`j6`)
 - [ ] Sunglasses, lip balm, hand lotion, tissues, and hair clips/scrunchies (`j7`)
 - [ ] Downloaded podcasts, audiobooks, road-trip playlist, and long phone charger cable (`j8`)
+- [ ] Lactaid (keep handy up front for coffee stops, restaurants & Thanksgiving feast) (`j9`)
 
 ## Winston's 70 lb Co-Pilot Pack (`0/8`)
 *Keep his essentials right at the top of the trunk for quick rest-stop hops.*
@@ -76,3 +77,4 @@
 
 ## Change Log
 - **2026-11-21T18:10:00-06:00 (Jordan & Assistant):** Initialized 6-category shared packing checklist (41 items).
+- **2026-11-22T20:36:00-06:00 (Jordan):** Added Lactaid to Janie's Recovery & Cozy Car Setup (42 total items).
