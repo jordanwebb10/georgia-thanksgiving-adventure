@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:36:00-06:00",
+  "updated_at": "2026-11-22T20:46:00-06:00",
   "updated_by": "Jordan",
   "categories": [
     {
@@ -10,13 +10,14 @@
       "items": [
         { "id": "j1", "text": "Soft lumbar pillow + seat cushion for the passenger seat", "done": false },
         { "id": "j2", "text": "Cozy cream throw blanket + warm fuzzy socks", "done": false },
-        { "id": "j3", "text": "All medications, dosage schedule, and water bottle within easy reach", "done": false },
-        { "id": "j4", "text": "Ice pack / warm compress pack + small insulated cooler bag", "done": false },
+        { "id": "j3", "text": "Advil, Janie's medications, dosage schedule, and reusable water bottles for both of us", "done": false },
+        { "id": "j4", "text": "Heating pad, ice pack / warm compress pack, and small insulated cooler bag", "done": false },
         { "id": "j5", "text": "Easy slip-on walking shoes for Franklin Main St and Chattanooga Bridge", "done": false },
         { "id": "j6", "text": "Two insulated travel mugs for coffee runs + favorite road-trip snacks", "done": false },
         { "id": "j7", "text": "Sunglasses, lip balm, hand lotion, tissues, and hair clips/scrunchies", "done": false },
         { "id": "j8", "text": "Downloaded podcasts, audiobooks, road-trip playlist, and long phone charger cable", "done": false },
-        { "id": "j9", "text": "Lactaid (keep handy up front for coffee stops, restaurants & Thanksgiving feast)", "done": false }
+        { "id": "j9", "text": "Lactaid (keep handy up front for coffee stops, restaurants & Thanksgiving feast)", "done": false },
+        { "id": "j10", "text": "Disposable film camera (for fun candid road-trip & move-in snaps!)", "done": false }
       ]
     },
     {
@@ -28,8 +29,8 @@
         { "id": "w1", "text": "Festive red/green plaid bandana + grey harness + backup collar with ID tag", "done": false },
         { "id": "w2", "text": "Sturdy daily leash + extra poop bag rolls clipped right to the leash", "done": false },
         { "id": "w3", "text": "Colorful spiky bouncy ball + 1 or 2 favorite chew toys", "done": false },
-        { "id": "w4", "text": "Collapsible travel water bowl + dedicated gallon jug of water", "done": false },
-        { "id": "w5", "text": "5 days of kibble (plus scoop) and extra high-value treats / long-lasting chew for Trilith Thanksgiving dinner", "done": false },
+        { "id": "w4", "text": "Both regular food & water bowls + collapsible travel water bowl + dedicated gallon jug of water", "done": false },
+        { "id": "w5", "text": "5 days of kibble (plus scoop), Winston's supplements, and extra high-value treats / long-lasting chew for Trilith Thanksgiving dinner", "done": false },
         { "id": "w6", "text": "Favorite dog bed/blanket so every hotel room smells instantly like home", "done": false },
         { "id": "w7", "text": "Two old bath towels + paw wipes for dewy grass or rainy rest stops", "done": false },
         { "id": "w8", "text": "Printed and phone copy of Winston's vaccination/vet records + any dog meds", "done": false }
@@ -76,7 +77,8 @@
         { "id": "f4", "text": "1 clean set of bed sheets, 2 sleeping pillows, and 2 bath towels", "done": false },
         { "id": "f5", "text": "Shower curtain, plastic liner, rings, and bath mat", "done": false },
         { "id": "f6", "text": "Power strip, extra phone chargers, and a small nightlight or flashlight", "done": false },
-        { "id": "f7", "text": "Morning coffee essentials, 2 mugs, disposable plates/utensils, and quick snacks", "done": false }
+        { "id": "f7", "text": "Coffee kettle, coffee beans for Janie & Jordan, and 2 nice coffee mugs (plus quick snacks)", "done": false },
+        { "id": "f8", "text": "Store run: paper plates, disposable utensils, and extra gallon jug of water", "done": false }
       ]
     },
     {

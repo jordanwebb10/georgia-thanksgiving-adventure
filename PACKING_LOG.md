@@ -1,24 +1,25 @@
 # Webb Georgia Road Trip: Shared Packing Checklist Log
 
-- **Last Updated:** `2026-11-22T20:36:00-06:00`
+- **Last Updated:** `2026-11-22T20:46:00-06:00`
 - **Updated By:** Jordan
-- **Progress:** `0 of 42` items packed
+- **Progress:** `0 of 44` items packed
 - **Live Storybook & Interactive Checklist:** https://jordanwebb10.github.io/georgia-thanksgiving-adventure/#comfort-kit
 
 ---
 
-## Janie's Recovery & Cozy Car Setup (`0/9`)
+## Janie's Recovery & Cozy Car Setup (`0/10`)
 *Everything within arm's reach in the front seat so you stay super comfortable.*
 
 - [ ] Soft lumbar pillow + seat cushion for the passenger seat (`j1`)
 - [ ] Cozy cream throw blanket + warm fuzzy socks (`j2`)
-- [ ] All medications, dosage schedule, and water bottle within easy reach (`j3`)
-- [ ] Ice pack / warm compress pack + small insulated cooler bag (`j4`)
+- [ ] Advil, Janie's medications, dosage schedule, and reusable water bottles for both of us (`j3`)
+- [ ] Heating pad, ice pack / warm compress pack, and small insulated cooler bag (`j4`)
 - [ ] Easy slip-on walking shoes for Franklin Main St and Chattanooga Bridge (`j5`)
 - [ ] Two insulated travel mugs for coffee runs + favorite road-trip snacks (`j6`)
 - [ ] Sunglasses, lip balm, hand lotion, tissues, and hair clips/scrunchies (`j7`)
 - [ ] Downloaded podcasts, audiobooks, road-trip playlist, and long phone charger cable (`j8`)
 - [ ] Lactaid (keep handy up front for coffee stops, restaurants & Thanksgiving feast) (`j9`)
+- [ ] Disposable film camera (for fun candid road-trip & move-in snaps!) (`j10`)
 
 ## Winston's 70 lb Co-Pilot Pack (`0/8`)
 *Keep his essentials right at the top of the trunk for quick rest-stop hops.*
@@ -26,8 +27,8 @@
 - [ ] Festive red/green plaid bandana + grey harness + backup collar with ID tag (`w1`)
 - [ ] Sturdy daily leash + extra poop bag rolls clipped right to the leash (`w2`)
 - [ ] Colorful spiky bouncy ball + 1 or 2 favorite chew toys (`w3`)
-- [ ] Collapsible travel water bowl + dedicated gallon jug of water (`w4`)
-- [ ] 5 days of kibble (plus scoop) and extra high-value treats / long-lasting chew for Trilith Thanksgiving dinner (`w5`)
+- [ ] Both regular food & water bowls + collapsible travel water bowl + dedicated gallon jug of water (`w4`)
+- [ ] 5 days of kibble (plus scoop), Winston's supplements, and extra high-value treats / long-lasting chew for Trilith Thanksgiving dinner (`w5`)
 - [ ] Favorite dog bed/blanket so every hotel room smells instantly like home (`w6`)
 - [ ] Two old bath towels + paw wipes for dewy grass or rainy rest stops (`w7`)
 - [ ] Printed and phone copy of Winston's vaccination/vet records + any dog meds (`w8`)
@@ -53,7 +54,7 @@
 - [ ] Auto insurance cards, new Georgia renter's insurance proof, and health insurance cards (`d5`)
 - [ ] Laptops, iPads, work chargers, external hard drives, and jewelry / irreplaceable keepsakes (`d6`)
 
-## First-Night Survival Box (306 Calgary Dr) (`0/7`)
+## First-Night Survival Box (306 Calgary Dr) (`0/8`)
 *So Friday evening at the new house is effortless even before boxes are unpacked.*
 
 - [ ] Toilet paper (4 rolls), paper towels, hand soap, and dish soap (`f1`)
@@ -62,7 +63,8 @@
 - [ ] 1 clean set of bed sheets, 2 sleeping pillows, and 2 bath towels (`f4`)
 - [ ] Shower curtain, plastic liner, rings, and bath mat (`f5`)
 - [ ] Power strip, extra phone chargers, and a small nightlight or flashlight (`f6`)
-- [ ] Morning coffee essentials, 2 mugs, disposable plates/utensils, and quick snacks (`f7`)
+- [ ] Coffee kettle, coffee beans for Janie & Jordan, and 2 nice coffee mugs (plus quick snacks) (`f7`)
+- [ ] Store run: paper plates, disposable utensils, and extra gallon jug of water (`f8`)
 
 ## Chicago Condo Close-Out (Tue Nov 24 Before 4:15 PM) (`0/5`)
 *Quick final sweep of 2550 W Logan Blvd Unit 3F before pulling onto I-65 S.*
@@ -78,3 +80,4 @@
 ## Change Log
 - **2026-11-21T18:10:00-06:00 (Jordan & Assistant):** Initialized 6-category shared packing checklist (41 items).
 - **2026-11-22T20:36:00-06:00 (Jordan):** Added Lactaid to Janie's Recovery & Cozy Car Setup (42 total items).
+- **2026-11-22T20:46:00-06:00 (Jordan):** Added disposable film camera, coffee kettle + beans + 2 nice mugs, store run (paper plates & extra gallon water jug), Advil + heating pad + both water bottles, and Winston's regular bowls + supplements (44 total items).
