@@ -155,9 +155,59 @@
     "cat": "Dinner & Patio",
     "lat": 35.924,
     "lng": -86.8714,
-    "desc": "Legendary Southern comfort food, live music, and dog-friendly patio seating.",
-    "gmaps": "https://www.google.com/maps/search/?api=1&query=Pucketts+Restaurant+Franklin+TN",
+    "desc": "Legendary Southern comfort food, live music, and dog-friendly patio seating (open til 9 PM Thanksgiving Eve).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Pucketts+Restaurant+120+4th+Ave+S+Franklin+TN+37064",
     "web": "https://puckettsrestaurant.com/franklin/"
+  },
+  {
+    "day": "day2",
+    "name": "Gray's on Main (332 Main St)",
+    "cat": "Dinner & Cocktails",
+    "lat": 35.9255,
+    "lng": -86.8692,
+    "desc": "Restored 1876 pharmacy with elevated Southern fare, craft cocktails & live music (open til 11 PM Thanksgiving Eve; check Resy).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Grays+on+Main+332+Main+St+Franklin+TN+37064",
+    "web": "https://graysonmain.com"
+  },
+  {
+    "day": "day2",
+    "name": "Culaccino (104 E Main St)",
+    "cat": "Italian Dinner",
+    "lat": 35.9267,
+    "lng": -86.8673,
+    "desc": "Scratch pasta & wood-fired pizza right on East Main (open til 10 PM Thanksgiving Eve).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Culaccino+104+E+Main+St+Franklin+TN+37064",
+    "web": "https://culaccinotn.com"
+  },
+  {
+    "day": "day2",
+    "name": "55 South (403 Main St)",
+    "cat": "Southern Dinner",
+    "lat": 35.9248,
+    "lng": -86.8702,
+    "desc": "Laid-back Southern & Gulf Coast classics right on Main Street (open til 9 PM Thanksgiving Eve).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=55+South+403+Main+St+Franklin+TN+37064",
+    "web": "https://eat55.com"
+  },
+  {
+    "day": "day2",
+    "name": "Kilwins Franklin (405 Main St)",
+    "cat": "Sweet Finish",
+    "lat": 35.9247,
+    "lng": -86.8703,
+    "desc": "Handcrafted fudge, chocolates & waffle cone ice cream right on Main Street.",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=Kilwins+405+Main+St+Franklin+TN+37064",
+    "web": "https://www.kilwins.com"
+  },
+  {
+    "day": "day2",
+    "name": "The Factory at Franklin & Jeni's Ice Cream",
+    "cat": "Food Hall & Dessert",
+    "lat": 35.9329,
+    "lng": -86.8586,
+    "desc": "Zero-wait indoor food hall, Skylight Bar & Jeni's Splendid Ice Creams (230 Franklin Rd, open til 10 PM).",
+    "gmaps": "https://www.google.com/maps/search/?api=1&query=The+Factory+at+Franklin+230+Franklin+Rd+Franklin+TN+37064",
+    "web": "https://factoryatfranklin.com"
   },
   {
     "day": "day2",
